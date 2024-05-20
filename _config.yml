@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "对艺术, 哲学与代码感兴趣的普通人 <br> 但大概不会成为一个程序员"
+sidebar-about-description: "对艺术, 思想与数字世界感兴趣的普通人 <br> 但大概不会成为一个程序员"
 sidebar-avatar: https://github.com/Halloween1996.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

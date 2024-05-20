@@ -8,6 +8,4 @@ header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
   - Life
-  - Meta
 ---
-# 标题
