@@ -1,10 +1,10 @@
 # Site settings
-title: 璃欣苒的博客
+title: 
 SEOTitle: 璃欣苒的博客 | Halloween Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "这里是 @Halloween 的个人静态博客 | 本项目只是用来测试"
-keyword: "Halloween, Hux Blog, 博客, 个人网站, 互联网, Web, 前端, 设计"
+keyword: "Hux Blog, 博客, 个人网站, 互联网, Web, 前端, 设计"
 url: "https://halloween1996.github.io/blog.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "对艺术, 哲学与代码感兴趣的普通人 <br> 但大概不会成为一个程序员"
-sidebar-avatar: https://github.com/Halloween1996/PicCitation/blob/9c95cc073fea400a4d2040a0a8f32781e72c2aac/20210305215411.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Halloween1996.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
