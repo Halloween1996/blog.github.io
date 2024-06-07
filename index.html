@@ -1,6 +1,5 @@
 ---
 layout: page
-header-mask: 0.8
 description: "「悲观者正确, 乐观者前行」"
 ---
 
@@ -29,6 +28,11 @@ description: "「悲观者正确, 乐观者前行」"
 </div>
 <hr>
 {% endfor %}
+
+header.intro-header{
+    height: 800px;
+    overflow: hidden;
+}
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
