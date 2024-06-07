@@ -17,7 +17,7 @@ weibo_username: huxpro
 zhihu_username: huxpro
 github_username: huxpro
 twitter_username: huxpro
-#facebook_username:  huxpro
+facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "对艺术, 思想与数字世界感兴趣的普通人 <br> 但大概不会成为一个程序员"
+sidebar-about-description: "对艺术, 思想与数字世界感兴趣 <br> 但大概不会成为一个程序员"
 sidebar-avatar: https://github.com/Halloween1996.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -92,11 +92,4 @@ page-mathjax: false
 friends:
   [
     { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
